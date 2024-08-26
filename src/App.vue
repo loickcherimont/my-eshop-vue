@@ -1,6 +1,6 @@
 <template>
   <!-- Header -->
-  <h1>E-Shop 🛒</h1>
+  <h1 class="">E-Shop 🛒</h1>
   <main>
 
     <!-- Products Store -->
