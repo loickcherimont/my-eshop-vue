@@ -1,6 +1,6 @@
 # MyEshop_Vue
 
-![Preview](./github/preview "MyEshop_Vue")
+![Preview](./github/preview.png "MyEshop_Vue")
 
 
 ## :information_source: About  
