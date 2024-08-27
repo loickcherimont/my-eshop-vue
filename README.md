@@ -1,6 +1,7 @@
 # MyEshop_Vue
 
-![Preview](https://placehold.co/500x300 "Preview of AppName")
+![Preview](./github/preview.png "MyEshop_Vue")
+
 
 ## :information_source: About  
 
@@ -10,67 +11,48 @@ my new tool JavaScript for end of August 2024
 
 
 ## :wrench: Tools
-- Vue 3
-<!-- - Tailwindcss  -->
+- [Vue 3.4.29](https://vuejs.org/ "Vue official website")
+- [Tailwindcss 3.4.10](https://tailwindcss.com/ "Tailwindcss official website")
+- [Vite 5.3.1](https://vitejs.dev/ "Vite official website")
 
 
-<!-- 
-    SETUP
-    Explain using command lines, the steps to follow to setup the project
-    At the end show, the expected result with a image   
+## :inbox_tray: Setup for contributions
+1. Open a terminal and paste these lines
 
-    Ex: 
-    1. Download the whole project `Travel` on your system
-    2. Open your terminal in `Travel`
-    ```
-    cd Travel
-    ```
-    3. In `Travel` directory, run:
-    ```
-    go run github.com/loickcherimont/Travel/main
-    ```
-    4. If there is no error. Go on your favorite browser and use this line in your URL address bar
-    ```
-    http://localhost:8080/travel
-    ```
-    5. Here you are! Welcome in the main page of the Web application
+```bash
+git clone git@github.com/loickcherimont/my-eshop-vue
+```
 
-    ![Main page of the application](assets/images/readme_images/mainpage.png)
--->
+2. Go in the project , fetch all dependencies and run it
 
-## :inbox_tray: Setup
+```bash
+cd my-eshop-vue
+npm i
+npm run dev
+```
+
+3. Welcome on the main page
+
 
 ## :warning: Prerequisites
-<!-- Bullet list or simple sentence explaining what contributor needs for this project -->
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+To run correctly this project, you'll a server use : [Vite 5.3.1](https://vitejs.dev/ "Vite official website")
 
 ## :thinking: How does it run ?
-1. Lorem ipsum dolor sit amet, `consectetur` adipiscing elit
-2. Lorem **ipsum dolor sit** amet, consectetur adipiscing elit
-```bash
-# Lorem ipsum dolor sit amet
-# Lorem ipsum dolor sit amet
-# Lorem ipsum dolor sit amet
-```
-3. Lorem ipsum dolor sit amet, *consectetur adipiscing elit*
+This is a simple shopping cart app.  
 
-![ExpectResultsAfterSetup](https://placehold.co/300x200)
+User can choose which product to bought and add it into the cart  
 
-<!-- 
-    FEATURES
-    List of the main new features, fixes to bring on the project
+or, remove one from the same cart.  
 
-    Ex:
-    - Setup Night/Day mode
-    - Add animation when music is playing
--->
+Actually the cart is displayed by default.
+
+> [!NOTE]
+> A better version with more features is coming... 🏗️
 
 ## :test_tube: Features
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Empty the cart with a button
+- Move the cart in a new place
+- Add filters
 
 
 ## :key: License
@@ -79,5 +61,5 @@ Developed by Loick Cherimont
 
 Under MIT License  
 
-Last edition : 2024-08-26
+Last edition : 2024-08-27
 
