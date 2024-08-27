@@ -7,8 +7,8 @@
     },
     {
         "id": 1,
-        "src": "./iphone.jpg",
-        "name": "iPhone",
+        "src": "./phone.jpg",
+        "name": "Phone",
         "price": 800
     },
     {
