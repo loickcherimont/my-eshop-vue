@@ -20,7 +20,7 @@ my new tool JavaScript for end of August 2024
 1. Open a terminal and paste these lines
 
 ```bash
-git clone git@github.com:loickcherimont/my-eshop-vue
+git clone git@github.com:loickcherimont/my-eshop-vue.git
 ```
 
 2. Go in the project , fetch all dependencies and run it
